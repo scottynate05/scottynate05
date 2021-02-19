@@ -13,7 +13,7 @@ const Nate = {
 #### How to reach me:
 [![Linkedin: natedev](https://img.shields.io/badge/-natedev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natedev/)](https://www.linkedin.com/in/natedev/)
 [![GitHub scottynate05](https://img.shields.io/github/followers/scottynate05?label=github&style=social)](https://github.com/scottynate05)
-[![Twitter: scottydontcode](https://img.shields.io/twitter/follow/scottydontcode?style=social)](https://twitter.com/scottydontcode)
+[![Twitter: scottydontcode](https://img.shields.io/twitter/follow/scottydontcode?label=follow&style=social)](https://twitter.com/scottydontcode)
 
 
 Here are some ideas to get you started:
