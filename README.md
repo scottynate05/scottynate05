@@ -15,5 +15,3 @@ const Nate = {
 [![GitHub scottynate05](https://img.shields.io/badge/-GitHub-gray?style=flat-square&logo=GitHub&logColor=black&link=(https://github.com/scottynate05))](https://github.com/scottynate05)
 [![Twitter: scottydontcode](https://img.shields.io/badge/-Follow-white?style=flat-square&logo=Twitter&logColor=blue&link=(https://twitter.com/scottydontcode))](https://twitter.com/scottydontcode)
 
-(https://img.shields.io/github/followers/scottynate05?label=github&style=social)](https://github.com/scottynate05)
-(https://img.shields.io/twitter/follow/scottydontcode?label=follow&style=social)](https://twitter.com/scottydontcode)
