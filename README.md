@@ -1,4 +1,4 @@
-### Hello 🌎, My name is Nate! I'm a software engineer with a love for learning, and growing.
+### Hello 🌎, My name is Nate! I'm a software engineer with a love for learning and growing.
 
 #### About me:
 ```javascript
