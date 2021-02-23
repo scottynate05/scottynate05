@@ -6,7 +6,7 @@ const Nate = {
   role: "Software Engineer",
   code: [Javascript, Python, HTML, CSS],
   tools: [React, Redux, Context API, Node.js, Express, REST, SQL, Postgres, Jest, Unit Testing, End to End Testing],
-  skills: [Algorithms, Data Structures, Full Stack Web Development]
+  skills: [Algorithms, Data Structures, Full Stack Web Development, Responsive and Progressive Web Applications]
 }
 ```
 
