@@ -4,7 +4,7 @@
 ```javascript
 const Nate = {
   role: "Software Engineer",
-  code: [Javascript, Python, GO, Lua],
+  code: [Javascript, Typscript, Python, GO, Lua],
   tools: [React, Redux, Context API, Node.js, Express, REST, SQL, Postgres, Jest, Unit Testing, End to End Testing, AWS],
   skills: [Algorithms, Data Structures, Full Stack Web Development, Responsive and Progressive Web Applications]
 }
